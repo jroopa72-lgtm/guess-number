@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+#text{
+    color:white;
+
+}
+.headSection{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 50px;
+}
+h1{
+    color:aliceblue;
+    text-align:center
+}
+.hiddenNumber{
+    background-color: red;
+    color:white;
+    text-align:center;
+    width:200px;
+    height:140px;
+    font-weight: 5rem;
+    line-height: 140px;
+    margin: 0 auto;
+
+}
+hr{
+    background-color: white;
+    height:10px;
+}
+.game{
+    display: flex;
+    justify-content: space-around;
+}
+
+.data{
+    display:flex;
+    flex-direction: column;
+    gap:20px;
+
+}
+.data{
+    padding:20px;
+}
+#btn{
+    padding:11px;
+    width:80px;
+    margin:auto;
+}
+.info{
+    color: white;
+}
